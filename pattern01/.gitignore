@@ -1,0 +1,4 @@
+/server/*
+/docker/db/*
+!.gitkeep
+.idea
