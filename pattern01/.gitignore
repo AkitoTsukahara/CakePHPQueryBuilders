@@ -1,4 +1,6 @@
-/server/*
+/server/bin/*
+/server/config/*
+/server/logs/*
 /docker/db/*
 !.gitkeep
 .idea
