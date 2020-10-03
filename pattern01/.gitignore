@@ -1,5 +1,8 @@
 /server/bin/*
 /server/config/*
+/server/plugins/*
+/server/resources/*
+/server/vendor/*
 /server/logs/*
 /docker/db/*
 !.gitkeep
